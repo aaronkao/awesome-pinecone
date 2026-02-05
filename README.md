@@ -31,6 +31,8 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 - [Multi-Modal Semantic Search Starter Kit](https://x.com/itstomohiro/status/1937914182193541351)
 - [RAG Upload Pipeline](https://www.linkedin.com/posts/madelineosman_friday-show-tell-building-a-custom-rag-ugcPost-7357069914320326657-484b/)
 - [Hybrid RAG: Mastering Context By Combining GraphRAG and VectorRAG](https://www.youtube.com/watch?v=Xb_sIwlqZ0k) - Combining GraphRAG and VectorRAG using LangGraph, neo4j, and Pinecone
+- [Pinecone Assistant API Overview](https://www.youtube.com/watch?v=_lXop0iYWYE)
+- [Pinecone RAG Tutorial](https://www.youtube.com/watch?v=Jfo-gCmm46E)
 
 ### Podcasts
 - [Databases in Higher Dimensions](https://open.spotify.com/episode/3wexyIhxZuRCiV7gZovHh1) - Jack Pertschuk, Principal Engineer at Pinecone on Talking Serverless
@@ -47,6 +49,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 - [Golang SDK](https://docs.pinecone.io/reference/go-sdk)
 - [.NET SDK](https://docs.pinecone.io/reference/dotnet-sdk)
 - [Rust SDK](https://docs.pinecone.io/reference/rust-sdk)
+- [context-window](https://github.com/hamittokay/context-window) - TypeScript RAG toolkit for ingesting documents, creating indexed collections with Pinecone, and querying them with OpenAI
 
 ## Tools
 ### Administration
@@ -59,6 +62,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 ### Development
 - [Pinecone Assistant MCP](https://github.com/pinecone-io/assistant-mcp)
 - [Pinecone Developer MCP](https://github.com/pinecone-io/pinecone-mcp)
+- [Infinite Context MCP](https://github.com/kayacancode/infinite-context-mcp) - MCP server that stores conversations and retrieves relevant context using Pinecone, reducing prompt bloat across chats and AI models
 
 ### Data Streaming
 - [Kafka-To-Pinecone](https://ganeshsivakumar.github.io/langchain-beam/docs/templates/kafka-to-pinecone/) - A data streaming pipeline to consume real-time messages from kafka topic, generate embeddings using OpenAI and upsert vectors into Pinecone index. To support AI agents and RAG applications that continuously require fresh data. 
@@ -73,3 +77,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ### Misc
 - [Chonkie](https://docs.chonkie.ai/python-sdk/handshakes/pinecone-handshake) - Chunking library integration with Pinecone
+
+## Applications
+- [Pinecone Assistant Demo](https://github.com/jayantarout79/jay-genai-portfolio/tree/main/pinecone_Assistant_demo) - RAG system using the Pinecone Assistant API to upload, index, and query PDF documents
+- [Autonomous RAG Agent](https://github.com/Vyasss/autonomous-rag-agent) - Event-driven agent that routes queries between a Pinecone vector store and local file system using LangChain and Gemini
