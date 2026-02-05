@@ -33,6 +33,9 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 - [Hybrid RAG: Mastering Context By Combining GraphRAG and VectorRAG](https://www.youtube.com/watch?v=Xb_sIwlqZ0k) - Combining GraphRAG and VectorRAG using LangGraph, neo4j, and Pinecone
 - [Pinecone Assistant API Overview](https://www.youtube.com/watch?v=_lXop0iYWYE)
 - [Pinecone RAG Tutorial](https://www.youtube.com/watch?v=Jfo-gCmm46E)
+- [Pinecone Database Overview](https://www.youtube.com/watch?v=X__6Zjltw48)
+- [Building with Pinecone](https://www.youtube.com/watch?v=ZWBn_OxellE)
+- [Pinecone Vector Search Deep Dive](https://www.youtube.com/watch?v=-08PKr8KJRY)
 
 ### Podcasts
 - [Databases in Higher Dimensions](https://open.spotify.com/episode/3wexyIhxZuRCiV7gZovHh1) - Jack Pertschuk, Principal Engineer at Pinecone on Talking Serverless
@@ -54,6 +57,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 ## Tools
 ### Administration
 - [Pinecone Embedding Atlas: Interactive Vector Visualization](https://github.com/martingaida/embedding_atlas) - Explore embeddings directly from a Jupyter notebook
+- [Pinecone Explorer](https://github.com/stepandel/pinecone-explorer) - Desktop app for browsing, searching, and managing Pinecone indexes with support for semantic search and 13+ embedding providers
 
 ### Deployment
 - [Terraform](https://docs.pinecone.io/integrations/terraform)
