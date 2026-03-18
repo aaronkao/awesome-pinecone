@@ -54,7 +54,6 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 - [Golang SDK](https://docs.pinecone.io/reference/go-sdk)
 - [.NET SDK](https://docs.pinecone.io/reference/dotnet-sdk)
 - [Rust SDK](https://docs.pinecone.io/reference/rust-sdk)
-- [context-window](https://github.com/hamittokay/context-window) - TypeScript RAG toolkit for ingesting documents, creating indexed collections with Pinecone, and querying them with OpenAI
 
 ## Tools
 ### Administration
@@ -83,6 +82,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ### Misc
 - [Chonkie](https://docs.chonkie.ai/python-sdk/handshakes/pinecone-handshake) - Chunking library integration with Pinecone
+- [context-window](https://github.com/hamittokay/context-window) - TypeScript RAG toolkit for ingesting documents, creating indexed collections with Pinecone, and querying them with OpenAI
 
 ## Applications
 - [Pinecone Assistant Demo](https://github.com/jayantarout79/jay-genai-portfolio/tree/main/pinecone_Assistant_demo) - RAG system using the Pinecone Assistant API to upload, index, and query PDF documents
