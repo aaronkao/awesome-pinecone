@@ -33,6 +33,11 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 - [Hybrid RAG: Mastering Context By Combining GraphRAG and VectorRAG](https://www.youtube.com/watch?v=Xb_sIwlqZ0k) - Combining GraphRAG and VectorRAG using LangGraph, neo4j, and Pinecone
 - [Pinecone Assistant API Overview](https://www.youtube.com/watch?v=_lXop0iYWYE)
 - [Pinecone RAG Tutorial](https://www.youtube.com/watch?v=Jfo-gCmm46E)
+- [RAG Setup So Easy It Feels Like Cheating: Pinecone Assistant with n8n](https://www.youtube.com/watch?v=ZWBn_OxellE)
+- [Google's New Model + Claude Code Just Changed RAG Forever](https://youtu.be/hem5D1uvy-w)
+- [How I Build $100,000 CEO Systems in 25 mins (AntiGravity)](https://www.youtube.com/watch?v=X__6Zjltw48)
+- [What are skills?](https://www.youtube.com/watch?v=bjdBVZa66oU)
+- [AntiGravity Skills are Cheat Codes (NEW System)](https://www.youtube.com/watch?v=RB_FQieIMIM)
 
 ### Podcasts
 - [Databases in Higher Dimensions](https://open.spotify.com/episode/3wexyIhxZuRCiV7gZovHh1) - Jack Pertschuk, Principal Engineer at Pinecone on Talking Serverless
@@ -54,6 +59,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 ## Tools
 ### Administration
 - [Pinecone Embedding Atlas: Interactive Vector Visualization](https://github.com/martingaida/embedding_atlas) - Explore embeddings directly from a Jupyter notebook
+- [Pinecone Explorer](https://github.com/stepandel/pinecone-explorer) - MacOS desktop app for exploring and managing Pinecone vector databases, with semantic search across 13+ embedding providers, metadata filtering, and batch operations
 
 ### Deployment
 - [Terraform](https://docs.pinecone.io/integrations/terraform)
@@ -81,3 +87,6 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 ## Applications
 - [Pinecone Assistant Demo](https://github.com/jayantarout79/jay-genai-portfolio/tree/main/pinecone_Assistant_demo) - RAG system using the Pinecone Assistant API to upload, index, and query PDF documents
 - [Autonomous RAG Agent](https://github.com/Vyasss/autonomous-rag-agent) - Event-driven agent that routes queries between a Pinecone vector store and local file system using LangChain and Gemini
+- [Plano](https://github.com/katanemo/plano) - AI-native proxy and data plane for agentic apps, handling model routing, orchestration, observability, and safety guardrails
+- [Skill Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Data preprocessing tool that ingests docs, GitHub repos, PDFs, videos, and 14+ other source types to generate structured knowledge assets for RAG pipelines
+- [WFGY RAG 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-rag-16-problem-map-global-debug-card.md) - Framework-agnostic diagnostic reference card mapping 16 RAG failure modes with an LLM-executable protocol for classifying and repairing issues
