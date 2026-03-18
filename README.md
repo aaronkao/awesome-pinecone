@@ -36,7 +36,6 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 - [RAG Setup So Easy It Feels Like Cheating: Pinecone Assistant with n8n](https://www.youtube.com/watch?v=ZWBn_OxellE)
 - [Google's New Model + Claude Code Just Changed RAG Forever](https://youtu.be/hem5D1uvy-w)
 - [How I Build $100,000 CEO Systems in 25 mins (AntiGravity)](https://www.youtube.com/watch?v=X__6Zjltw48)
-- [What are skills?](https://www.youtube.com/watch?v=bjdBVZa66oU)
 - [AntiGravity Skills are Cheat Codes (NEW System)](https://www.youtube.com/watch?v=RB_FQieIMIM)
 
 ### Podcasts
