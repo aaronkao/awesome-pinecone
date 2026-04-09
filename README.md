@@ -88,6 +88,4 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 - [Gentic Influencer](https://gentic.co/influencer) - Agent-native influencer search platform that connects via MCP, using Pinecone vector search across 2M+ creator profiles for brand-match scoring and personalized outreach.
 - [Pinecone Assistant Demo](https://github.com/jayantarout79/jay-genai-portfolio/tree/main/pinecone_Assistant_demo) - RAG system using the Pinecone Assistant API to upload, index, and query PDF documents
 - [Autonomous RAG Agent](https://github.com/Vyasss/autonomous-rag-agent) - Event-driven agent that routes queries between a Pinecone vector store and local file system using LangChain and Gemini
-- [Plano](https://github.com/katanemo/plano) - AI-native proxy and data plane for agentic apps, handling model routing, orchestration, observability, and safety guardrails
 - [Skill Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Data preprocessing tool that ingests docs, GitHub repos, PDFs, videos, and 14+ other source types to generate structured knowledge assets for RAG pipelines
-- [WFGY RAG 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-rag-16-problem-map-global-debug-card.md) - Framework-agnostic diagnostic reference card mapping 16 RAG failure modes with an LLM-executable protocol for classifying and repairing issues
