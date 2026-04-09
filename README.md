@@ -39,8 +39,9 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 - [AntiGravity Skills are Cheat Codes (NEW System)](https://www.youtube.com/watch?v=RB_FQieIMIM)
 
 ### Podcasts
-- [Databases in Higher Dimensions](https://open.spotify.com/episode/3wexyIhxZuRCiV7gZovHh1) - Jack Pertschuk, Principal Engineer at Pinecone on Talking Serverless
 - [AI, Ambition, and Innovation](https://open.spotify.com/episode/41KAUsK38UH5Ep49ZcG3xU) - Edo Liberty on Inside the ICE House
+- [Databases in Higher Dimensions](https://open.spotify.com/episode/3wexyIhxZuRCiV7gZovHh1) - Jack Pertschuk, Principal Engineer at Pinecone on Talking Serverless
+- [RAG, Agents, and the Future of AI Memory](https://podcasts.apple.com/us/podcast/rag-agents-and-the-future-of-ai-memory/id1726123221?i=1000757277449) - Roie Schwaber-Cohen on the AI Rebels Podcast covering RAG failure modes, AI grounding, and agent memory.
 
 ### Research
 - [Efficient Constant-Space Multi-Vector Retrieval](https://www.pinecone.io/research/efficient-constant-space-multi-vector-retrieval/)
@@ -84,8 +85,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 - [context-window](https://github.com/hamittokay/context-window) - TypeScript RAG toolkit for ingesting documents, creating indexed collections with Pinecone, and querying them with OpenAI
 
 ## Applications
+- [Gentic Influencer](https://gentic.co/influencer) - Agent-native influencer search platform that connects via MCP, using Pinecone vector search across 2M+ creator profiles for brand-match scoring and personalized outreach.
 - [Pinecone Assistant Demo](https://github.com/jayantarout79/jay-genai-portfolio/tree/main/pinecone_Assistant_demo) - RAG system using the Pinecone Assistant API to upload, index, and query PDF documents
 - [Autonomous RAG Agent](https://github.com/Vyasss/autonomous-rag-agent) - Event-driven agent that routes queries between a Pinecone vector store and local file system using LangChain and Gemini
-- [Plano](https://github.com/katanemo/plano) - AI-native proxy and data plane for agentic apps, handling model routing, orchestration, observability, and safety guardrails
 - [Skill Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Data preprocessing tool that ingests docs, GitHub repos, PDFs, videos, and 14+ other source types to generate structured knowledge assets for RAG pipelines
-- [WFGY RAG 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-rag-16-problem-map-global-debug-card.md) - Framework-agnostic diagnostic reference card mapping 16 RAG failure modes with an LLM-executable protocol for classifying and repairing issues
