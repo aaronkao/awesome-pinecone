@@ -20,6 +20,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 - [Building an AI-Powered Discord Bot with Railway and Pinecone](https://blog.greenflux.us/building-an-ai-powered-discord-bot-with-railway-and-pinecone/)
 - [Full RAG Chatbot in Slack](https://medium.com/@progeorgek/full-rag-chatbot-in-slack-623990db3a3b)
 - [Populate Pinecone from a website using n8n](https://docs.n8n.io/advanced-ai/examples/vector-store-website/)
+- [Use Pinecone with Gemini Enterprise Agent Platform RAG Engine](https://docs.cloud.google.com/gemini-enterprise-agent-platform/build/rag-engine/use-pinecone) - Guide on connecting Pinecone as a vector backend for Google's Gemini Enterprise Agent Platform RAG Engine.
 - [5 Ways to Automate Pinecone with Zapier](https://zapier.com/blog/automate-pinecone/)
 - [AI Assistants with Document Retrieval (RAG) Using Pinecone](https://community.appsmith.com/content/blog/ai-assistants-document-retrieval-rag-using-pinecone)
 
@@ -85,7 +86,9 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 - [context-window](https://github.com/hamittokay/context-window) - TypeScript RAG toolkit for ingesting documents, creating indexed collections with Pinecone, and querying them with OpenAI
 
 ## Applications
+- [Clinical Intelligence RAG](https://github.com/pvenkata-tech/clinical-intelligence-rag) - HIPAA-compliant clinical RAG pipeline with PII scrubbing, multi-provider LLM support (Bedrock, OpenAI, Anthropic), and automated Pinecone indexing.
 - [Gentic Influencer](https://gentic.co/influencer) - Agent-native influencer search platform that connects via MCP, using Pinecone vector search across 2M+ creator profiles for brand-match scoring and personalized outreach.
+- [Hybrid Search with LangChain and Pinecone](https://github.com/Vatsal-Founder/Hybrid-Search-with-LangChain-and-Pinecone) - Hybrid search RAG system combining BM25 sparse and dense embeddings with RAGAS evaluation, achieving 35% retrieval precision improvement over dense-only search.
 - [Pinecone Assistant Demo](https://github.com/jayantarout79/jay-genai-portfolio/tree/main/pinecone_Assistant_demo) - RAG system using the Pinecone Assistant API to upload, index, and query PDF documents
 - [Autonomous RAG Agent](https://github.com/Vyasss/autonomous-rag-agent) - Event-driven agent that routes queries between a Pinecone vector store and local file system using LangChain and Gemini
 - [Skill Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Data preprocessing tool that ingests docs, GitHub repos, PDFs, videos, and 14+ other source types to generate structured knowledge assets for RAG pipelines
