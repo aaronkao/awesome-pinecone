@@ -124,6 +124,9 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 - [Pinecone Assistant n8n Node](https://github.com/pinecone-io/n8n-nodes-pinecone-assistant) - Official n8n community node for Pinecone Assistant
 - [OmniRAG-n8n](https://github.com/ziadnasar6-lgtm/OmniRAG-n8n) - Self-hosted n8n RAG system that ingests Google Drive documents into Pinecone using Ollama
 
+### Migration
+- [Chroma Cloud to Pinecone Migration](https://github.com/pinecone-field/chromacloud-migration) - Scripts and an Agent Skill to move a Chroma Cloud collection into a Pinecone index, reusing existing embeddings and validating each step before cutover
+
 ### Postgres
 - [pg_pinecone](https://github.com/pinecone-io/pg_pinecone) - Open-source PostgreSQL extension that brings Pinecone's vector search to your existing pgvector tables
 
