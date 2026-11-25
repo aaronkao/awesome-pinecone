@@ -86,6 +86,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 - [Pinecone for VS Code](https://github.com/pinecone-io/pinecone-vscode) - Build, test, and operate Pinecone indexes and assistants from inside VS Code
 - [lazyvec](https://github.com/armgabrielyan/lazyvec) - Terminal UI for browsing and inspecting Pinecone, Qdrant, and Chroma
 - [VectorDBZ](https://github.com/vectordbz/vectordbz) - Desktop app for exploring, managing, and analyzing vector databases, including Pinecone
+- [Vector Inspector](https://github.com/anthonypdawson/vector-inspector) - Cross-platform desktop app for browsing, searching, and visualizing Pinecone indexes and other vector databases, with CRUD, metadata filtering, and 2D/3D embedding plots
 - [Vector-io](https://github.com/AI-Northstar-Tech/vector-io) - Export and import data between Pinecone and other vector databases
 
 ### Benchmarking
